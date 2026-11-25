@@ -1,0 +1,2 @@
+# Problem Statement
+Patients in home-care and remote-care settings may not have continuous access to health monitoring equipment or timely review of vital-sign readings. This project demonstrates an Embedded IoT monitoring workflow that organizes heart rate, body temperature and SpO₂ readings in a centralized dashboard and highlights values crossing configurable demonstration thresholds. The current software prototype uses the supplied anonymized dataset and clearly labelled simulated ESP32 readings; it is not a medical device.

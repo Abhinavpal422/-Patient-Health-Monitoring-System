@@ -1,0 +1,2 @@
+# SRS Submission Note
+The full supplied Software Requirements Specification is included as `SRS_reference.docx` (22-page baseline, version 1.0). It describes the broader target ESP32 wearable solution. For accurate evaluation of the currently deployed software, read `implementation_scope_and_limitations.md`: the present build uses the historical CSV and Python-generated simulated readings; physical sensor acquisition, ESP32 firmware, MQTT/REST ingestion and live device telemetry are future extensions.

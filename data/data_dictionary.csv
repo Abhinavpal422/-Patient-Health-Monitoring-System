@@ -1,0 +1,8 @@
+column_name,data_type,sample_value_1,sample_value_2,sample_value_3,nullable,description_fill_in
+timestamp,object/numeric,2024-01-01 00:00:00,2024-01-01 00:20:00,2024-01-01 00:40:00,No,timestamp — [Learner to fill in description]
+patient_id,object/numeric,P1061,P1048,P1019,No,patient_id — [Learner to fill in description]
+heart_rate_bpm,object/numeric,70,73,64,No,heart_rate_bpm — [Learner to fill in description]
+body_temp_C,object/numeric,37.3,37.2,36.9,No,body_temp_C — [Learner to fill in description]
+SpO2_pct,object/numeric,98,97,96,No,SpO2_pct — [Learner to fill in description]
+comm_channel,object/numeric,WiFi,WiFi,Bluetooth,No,comm_channel — [Learner to fill in description]
+alert_flag,object/numeric,0,0,0,No,alert_flag — [Learner to fill in description]
